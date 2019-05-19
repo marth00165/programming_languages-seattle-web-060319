@@ -38,3 +38,6 @@ def reformat_languages(languages)
   new_hash
 end	
 end
+
+
+## I dont know if this is correct or not because the learn IDE just wouldnt return the errors ever it just kept giving me 1 error occured outside example.. and I had to look at someone elses work to make sure it was correct... this has happened in multiple labs please fix.
